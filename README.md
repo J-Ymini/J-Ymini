@@ -3,7 +3,7 @@
  [![](https://raw.githubusercontent.com/J-Ymini/J-Ymini/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/J-Ymini/J-Ymini/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3498db&height=300&section=header&text=Yongmin%20Jeon&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3498db&height=200&section=header&text=Yongmin%20Jeon&fontSize=50&fontColor=ffffff&fontAlignY=35)
 
 ### 🛠 Tech Stack 🛠
  
