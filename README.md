@@ -24,7 +24,7 @@
  <br/>
  <br/>
  
-***🤔 Techs currently interested and learning!***
+***🤔 Techs that I currently interested and learning!***
  <br/>
  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
