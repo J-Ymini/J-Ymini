@@ -41,7 +41,7 @@
  <br/>
  
  ### 😄 About me!
-  <a href="https://velog.io/@dydalsdl1414"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://velog.io/@dydalsdl1414"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
