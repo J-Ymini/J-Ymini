@@ -3,8 +3,10 @@
  [![](https://raw.githubusercontent.com/J-Ymini/J-Ymini/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/J-Ymini/J-Ymini/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=2980b9&height=170&section=header&text=Yongmin%20Jeon&fontSize=35&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2980b9&height=170&section=header&text=Yongmin%20Jeon&fontSize=35&fontColor=ffffff&fontAlignY=33)
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ymini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ### 🛠 Tech Stack 🛠
  
 ***👨‍💻 Techs that I have used at least once!***
@@ -40,8 +42,7 @@
  
  ### 😄 About me!
   <a href="https://velog.io/@dydalsdl1414"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ymini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 
