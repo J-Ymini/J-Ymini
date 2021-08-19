@@ -31,7 +31,7 @@
  <br/>
  <br/>
  
-***🤔 Techs that I'm currently interested***
+***🤔 Techs that I'm currently interested!***
  <br/>
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -43,7 +43,7 @@
  <br/>
  <br/>
  
- ### 😄 Channel & Contact!
+ ### 😄 Channel & Contact
   <a href="https://velog.io/@dydalsdl1414"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  <a href="mailto:dydalsdl1414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
