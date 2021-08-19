@@ -7,7 +7,7 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ymini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ymini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ymini&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
  
 ### 🛠 Tech Stack 🛠
@@ -43,9 +43,10 @@
  <br/>
  <br/>
  
- ### 😄 About me!
+ ### 😄 Channel & Contact!
   <a href="https://velog.io/@dydalsdl1414"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+ <a href="mailto:dydalsdl1414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
