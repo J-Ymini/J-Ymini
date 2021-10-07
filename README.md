@@ -49,7 +49,8 @@
   <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
  <a href="mailto:dydalsdl1414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **J-Ymini/J-Ymini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
