@@ -44,10 +44,9 @@
  <br/>
  
  ### 😄 Channel & Contact
-  <a href="https://velog.io/@dydalsdl1414"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://jymini.tistory.com/"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=Blogger&logoColor=black"/></a>
  <a href="mailto:dydalsdl1414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
+<!-- <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
 
 
 <!--
