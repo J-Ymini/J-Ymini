@@ -5,7 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2980b9&animation=fadeIn&height=170&section=header&text=🖐Hi,%20I'm%20Yongmin%20Jeon&fontSize=30&fontColor=ffffff&fontAlignY=33)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ymini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ymini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ymini&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
